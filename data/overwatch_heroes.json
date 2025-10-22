@@ -1,0 +1,17 @@
+{
+  "tank": [
+    "Reinhardt",
+    "Winston",
+    "Sigma"
+  ],
+  "dps": [
+    "Tracer",
+    "Soldier:76",
+    "Genji"
+  ],
+  "support": [
+    "Mercy",
+    "Ana",
+    "Lucio"
+  ]
+}
