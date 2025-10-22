@@ -1,0 +1,5 @@
+﻿# Ignorer le dossier des dépendances
+node_modules/
+
+# Ajoutez aussi le fichier de secrets
+.env
